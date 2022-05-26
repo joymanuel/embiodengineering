@@ -4,3 +4,6 @@ function output(msg){
 
 
 output("initial git project")
+function x(){
+    
+}
